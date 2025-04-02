@@ -7,7 +7,7 @@ import { createApp, h } from 'vue';
 import { ZiggyVue } from 'ziggy-js';
 import { initializeTheme } from './composables/useAppearance';
 
-// Extend ImportMeta interface for Vite...
+// Extend ImportMeta interface for Vite...ui
 declare module 'vite/client' {
     interface ImportMetaEnv {
         readonly VITE_APP_NAME: string;
