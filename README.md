@@ -1,5 +1,4 @@
-# TimescaleDB + Laravel test
-
+# TimescaleDB + Laravel example
 
 In this video, I talked about how we use TimescaleDB over at [Pakske](https://pakske.be/), for our data platform.
 
